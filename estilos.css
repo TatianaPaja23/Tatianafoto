@@ -1,0 +1,13 @@
+body{
+    background:url("foto.jpg") no-repeat;
+    background-size: 1600px 750px;
+}
+.texto{
+    background:rgba(255, 255, 255, 0.275) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:200% ;
+    margin:0 auto;
+    width:600px;
+    padding: 2em;
+    width:70%;
+}
