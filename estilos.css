@@ -2,6 +2,10 @@ body{
     background:url("foto.jpg") no-repeat;
     background-size: 1600px 750px;
 }
+.titulo{
+    font-family:"comic sans ms";
+    font-size:3em;
+}
 .texto{
     background:rgba(255, 255, 255, 0.275) ;
     font-family: Georgia, 'Times New Roman', Times, serif;
